@@ -1,5 +1,7 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
+
+<h1 align="center">Các chức năng chính</h1>
 <ul> 
 <h4> 1. Quản trị dành cho Admin (Phần backend):</h4> 
 
@@ -10,7 +12,6 @@
 <li>Quản lý màu sắc sản phẩm (thêm, sửa, xóa).</li>
 <li>Quản lý slide (thêm, sửa, xóa).</li>
 <li>Quản lý đơn hàng của người dùng (xem tất cả, xóa, hủy đơn hàng).</li>
-
 </ul>
 <ul> 
  <h4> 2. Website dành cho người dùng (Phần frontend): </h4>
